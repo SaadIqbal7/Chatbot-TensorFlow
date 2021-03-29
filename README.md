@@ -1,4 +1,4 @@
-# Chatbot-TensorFlow
+# Chatbot TensorFlow
 
 This repository contains a Jupyter Notebook for traning a Chatbot using Seq2Seq model with Attention.
 
